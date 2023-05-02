@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+.text{font-family:"Vina Sans";
+    font-size: 40px;
+    line-height: 70px;
+    color: #ee98fa;
+
+} 
+p { text-align: center;}
+
+body {
+    background-color: #bf66e9;
+}
